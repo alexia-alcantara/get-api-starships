@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ##Installation of dependencies
-Clone the repository, install Node.js verion >=6, run npm install
+
+`Clone the repository, install Node.js verion >=6, run npm install`
 
 ## Available Scripts
 
